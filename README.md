@@ -12,7 +12,7 @@
 
  ## STEP 1
  ### Flow Chart
- ![211015_1800_묵찌빠STEP1 순서도_fin drawio](https://user-images.githubusercontent.com/70856586/137461608-000d1467-b13f-4490-87b7-c957e2707a36.png)
+ ![211017_1800_묵찌빠STEP1 순서도_fin](https://user-images.githubusercontent.com/70856586/137621651-21f71b72-a503-46cf-b3bf-bc28def7d4bd.png)
 
  ### 구현 내용
  * Hand 열거형을 생성한 이유 :   
@@ -39,7 +39,7 @@
 
  ## STEP 2
  ### Flow Chart
- ![2222 순서도_fin drawio](https://user-images.githubusercontent.com/70856586/137462498-80961a35-6fe4-4ca7-a654-4be5fc8f3f91.png)
+ ![211017_1800_묵찌빠STEP2 순서도_fin](https://user-images.githubusercontent.com/70856586/137621663-f5371e7f-276c-433c-b21e-a2ccb67c4823.png)
 
  ### 구현 내용
  * 재귀함수 오류을 방지하기 위해 while문으로 수정 :   
